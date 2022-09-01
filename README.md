@@ -8,24 +8,22 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Upskill my self.
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate 
+- 🤔 I’m looking for help 
+- 💬 Ask me about any thing
+- 📫 How to reach me: below
 -->
 ### Connect With Me:
 
 
-[<img align="left" alt="Ganesh-R | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ganesh-R | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Ganesh-R | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Manohar | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Manohar | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Manohar | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[twitter]: https://twitter.com/Ganesh63330267
-[instagram]: https://www.instagram.com/ganesh_r28/
-[linkedin]: https://www.linkedin.com/in/ganeshrongali/
+[twitter]: https://twitter.com/BenduNaidu
+[instagram]: https://www.instagram.com/manu.starkzz/
+[linkedin]: https://www.linkedin.com/in/anonymous22/
 </br>
 
