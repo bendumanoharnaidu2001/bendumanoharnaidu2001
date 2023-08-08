@@ -1,6 +1,6 @@
 -->### Hi there 👋
 
-## I'm Manohar an ECE student
+## I'm Manohar
 
 - 🔭 I’m currently working on my skills
 - 👯 I’m looking to collaborate on Projects
@@ -8,12 +8,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Upskill my self.
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate 
-- 🤔 I’m looking for help 
-- 💬 Ask me about any thing
-- 📫 How to reach me: below
+I aspire to have a challenging career in Software Development to use my learned skills and experiences for the best result.
+I am pursuing Java, DSA, SQL, LLD, and HLD at Scaler Academy. I want to work as a software engineer where I can contribute my analytical skills and knowledge acquired by pursuing the course. I am looking for a dynamic and progressive company where my skills are utilized in the maximum way possible.
+
 -->
 ### Connect With Me:
 
